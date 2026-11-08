@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyFirst/NewGame.scene
     guid: fb187fb8fb132b144b414d9e148a0c3c
+  - enabled: 1
+    path: Assets/MySecond_AddUI/RangeUI.scene
+    guid: 30830caa532f4431aecce89756c8ba5c
+  - enabled: 1
+    path: Assets/MyThird_Res/SpaceRange.scene
+    guid: 7a197e9b55f44b03a3feb2fc5ef181c1
+  - enabled: 1
+    path: Assets/MyFourth_plus/ImpactRange.scene
+    guid: d242e7b3461a1af41b11efd590283189
   m_BuildProfiles: []
   m_configObjects: {}
   m_SlimFeaturesWeixinMiniGame:
