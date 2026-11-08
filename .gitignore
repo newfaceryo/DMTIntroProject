@@ -1,0 +1,14 @@
+/Library/
+/Temp/
+/Logs/
+/Obj/
+/UserSettings/
+/Build/
+/Builds/
+/.codely-cli/
+/.codely.packages/
+/Assets/Unity.VisualScripting.Generated/
+/Assets/Unity.VisualScripting.Generated.meta
+/.vs/
+*.csproj
+*.sln
